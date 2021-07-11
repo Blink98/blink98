@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blink98](https://github.com/Blink98)
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **gs130899@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
