@@ -5,7 +5,7 @@
 
 - 🔭 I recently worked at [MyWays](https://myways.in/)
 
-- 🌱 I’m currently learning **Backend in MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blink98](https://github.com/Blink98)
 
