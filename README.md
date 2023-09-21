@@ -5,7 +5,7 @@
 
 - 🔭 I recently worked at [MyWays](https://myways.in/)
 
-- 🌱 I’m currently learning **MERN Stack and DSA**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/singhlify](https://github.com/singhlify)
 
